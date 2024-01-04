@@ -1,0 +1,14 @@
+.form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    height: 500px;
+    background-color: #ff2626;
+}
+
+.input {
+    border: 2px solid black;
+    border-radius: 2px;
+}
